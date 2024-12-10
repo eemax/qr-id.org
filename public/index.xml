@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on QR-ID</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on QR-ID</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/whitepaper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/whitepaper/</guid>
+      <description>&lt;h1 id=&#34;qr-id-a-next-generation-standard-for-product-and-instance-level-identification&#34;&gt;&lt;strong&gt;QR-ID: A Next-Generation Standard for Product and Instance-Level Identification&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Authors&lt;/strong&gt;: Maximilian Lindqvist&lt;br&gt;&#xA;&lt;strong&gt;Date&lt;/strong&gt;: December 10, 2024&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;abstract&#34;&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;The &lt;strong&gt;GTIN-Batch-Serial&lt;/strong&gt; standard is a next-generation approach to revolutionizing product and instance-level identification. By combining a &lt;strong&gt;product code (GTIN)&lt;/strong&gt;, a &lt;strong&gt;batch identifier&lt;/strong&gt;, and a &lt;strong&gt;unique serial identifier&lt;/strong&gt; into a single structured format, this standard provides the flexibility, scalability, and modularity necessary for tracking, authentication, and consumer engagement. Using a separator (&lt;code&gt;-&lt;/code&gt;) to distinctly organize GTIN, batch, and serial-level data, the approach embeds the complete identifier into a scannable QR code, enriched with logic-based routing. This white paper outlines the technical details, use cases, benefits, adoption strategies, and implementation roadmap for GTIN-Batch-Serial as a global standard.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

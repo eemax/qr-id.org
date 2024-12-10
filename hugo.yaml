@@ -1,0 +1,27 @@
+baseurl: "https://qr-id.org/"
+languageCode: "en-us"
+title: "QR-ID"
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
+
+menu:
+  main:
+    - name: Home
+      url: ""
+      weight: 1
+    - name: Whitepaper
+      url: "whitepaper/"
+      weight: 2
+    - name: GitHub
+      url: "https://github.com/eemax/qr-id"
+      weight: 3
+
+params:
+  description: "A Next-Generation Standard for Product and Instance-Level Identification"
+  footer: "&copy; QR-ID {Year}"
+
+markup:
+  highlight:
+    codeFences: false
+  goldmark:
+    renderer:
+      unsafe: true
